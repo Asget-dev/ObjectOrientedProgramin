@@ -1,4 +1,5 @@
-import miu.edu.cafteria.mealcard.Person;
+package myutil;
+import mealcard.Person;
 
 public class Main_MyUtil {
 

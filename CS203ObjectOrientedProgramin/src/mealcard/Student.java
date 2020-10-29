@@ -1,4 +1,4 @@
-package miu.edu.cafteria.mealcard;
+package mealcard;
 
 public class Student {
 	private String stName;
